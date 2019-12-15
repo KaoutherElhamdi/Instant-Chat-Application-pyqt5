@@ -9,8 +9,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 from threading import Thread
 import socket
-from tkinter import *
-from tkinter.messagebox import *
 from fct import afficher_message
 
 Host = "127.0.0.1"
